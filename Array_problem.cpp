@@ -1,3 +1,9 @@
+/*------------------------------------------------------------
+
+Problem Link: https://www.hackerrank.com/challenges/arrays-introduction/problem?isFullScreen=true
+
+---------------------------------------------------------------*/
+
 #include <iostream>
 using namespace std;
 
